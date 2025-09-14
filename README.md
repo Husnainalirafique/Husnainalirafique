@@ -15,8 +15,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I’m working as an kotlin Android Developer.
+I am an Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+- :telescope: I’m working as an kotlin / Java / Flutter Applicaiton Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
